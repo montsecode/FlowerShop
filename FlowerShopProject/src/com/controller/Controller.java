@@ -3,10 +3,10 @@ package com.controller;
 import java.util.ArrayList;
 import java.util.List;
 
-import domain.Decoration;
-import domain.Florist;
-import domain.Flower;
-import domain.Tree;
+import com.domain.Decoration;
+import com.domain.Florist;
+import com.domain.Flower;
+import com.domain.Tree;
 
 
 public class Controller {
